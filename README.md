@@ -5,7 +5,7 @@
 <img width="1470" alt="스크린샷 2024-02-06 오후 3 38 01" src="https://github.com/jkworldchampion/Vegita_tensorflow/assets/83493949/285a9b5f-e89b-4bc6-b098-2ed9a9172a19">
 기본 페이지는 다음과 같다.  
 기본적인 Template은 강의에서와 같이 Bootstrap에서 쉽게 받을 수 있다.
-받은 index.html을 수정한 파일은 동빈나님의 [깃허브 레퍼지토리](https://github.com/ndb796/Vegita/)에 가면 받을 수 있다.
+받은 index.html을 수정한 파일은 동빈나님의 [깃허브 레퍼지토리](https://github.com/ndb796/Vegita/) 에 가면 받을 수 있다.
 
 <img width="1470" alt="스크린샷 2024-02-06 오후 3 38 16" src="https://github.com/jkworldchampion/Vegita_tensorflow/assets/83493949/0b513341-0a78-4ae1-869e-36a16d10df48">
 <img width="1470" alt="스크린샷 2024-02-06 오후 3 38 28" src="https://github.com/jkworldchampion/Vegita_tensorflow/assets/83493949/91f07cb9-6fb5-4f36-9852-ec984abde20e">
